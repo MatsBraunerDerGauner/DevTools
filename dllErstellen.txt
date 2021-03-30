@@ -1,0 +1,1 @@
+gcc -o add.dll add.o -s -shared -Wl,--subsystem,windows
